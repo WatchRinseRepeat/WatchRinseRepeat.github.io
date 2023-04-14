@@ -282,6 +282,7 @@ footer {
     padding: 1.6%;
     height: 450px;
     background-color: #f2f2f2;
+    overflow-y: auto;
 }
 
 .Column_2 {
